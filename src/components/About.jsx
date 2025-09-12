@@ -50,7 +50,8 @@ const About = () => {
           Hey! 👋 I'm a passionate developer who loves building web apps and exploring
           new technologies. I love solving problems and learning something new every day.
           When I'm not working, you can find me at the gym or grinding LeetCode.
-          I'm always excited to connect with like-minded people, so feel free to reach out!
+          I'm always excited to connect with like-minded people,
+          feel free to reach out!
         </motion.p>
 
         <motion.div
