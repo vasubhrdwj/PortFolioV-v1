@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import heroBg from '../assets/heroBg.jpg'
 import Navbar from './Navbar'
 
+
 const phrases = [
   'A Software Engineer passionate about Web & Blockchain.',
   'A Competitive Programmer.',
