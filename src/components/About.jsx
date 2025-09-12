@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import dp from "../assets/WhatsappDp_July2024.jpg";
 
 const About = () => {
   return (
@@ -22,7 +23,7 @@ const About = () => {
           viewport={{ once: true }}
         >
             <img
-        src="src/assets/WhatsappDp_July2024.jpg"
+        src={dp}
         alt="Your Name"
         className="w-full h-full rounded-4xl object-cover"
         />
