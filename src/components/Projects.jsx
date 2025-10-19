@@ -63,7 +63,7 @@ const Projects = () => {
             <motion.div
               key={selectedProject.title} // Crucial for AnimatePresence to detect changes
               className="bg-slate-800/40 border border-slate-700/80 rounded-xl shadow-lg
-                         p-8 flex flex-col text-left"
+                         p-8 flex flex-col text-left w-4/5 mx-auto mt-8"
               initial={{ opacity: 0, y: 30 }}
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: -30 }}
